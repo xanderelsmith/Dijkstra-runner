@@ -15,9 +15,9 @@ A Flutter application that demonstrates how navigation systems (like Google Maps
 ## 📺 As Seen on YouTube
 
 This repository contains the source code discussed in my video:
-**[(6) What Google Maps uses underneath the hood, and how it relates to pathfinding](YOUR_YOUTUBE_LINK_HERE)**
+**[(6) What Google Maps uses underneath the hood, and how it relates to pathfinding](https://www.youtube.com/shorts/_LIMIkWkCTs)**
 
-[![Watch the Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](YOUR_YOUTUBE_LINK_HERE)
+[![Watch the Video](https://www.youtube.com/shorts/_LIMIkWkCTs)
 
 *Click the image above to watch the breakdown!*
 
