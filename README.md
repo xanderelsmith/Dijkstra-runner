@@ -96,9 +96,9 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## 📧 Contact
 
-**Emmanuel Onyeji** - [LinkedIn Profile](LINKEDIN_URL)
+**Emmanuel Onyeji** - [LinkedIn Profile](https://www.linkedin.com/in/emmanuel-onyeji-a09705231/)
 
-Project Link: [https://github.com/YOUR_USERNAME/dijkstra_runner](https://github.com/YOUR_USERNAME/dijkstra_runner)
+Project Link: [https://github.com/YOUR_USERNAME/dijkstra_runner](https://github.com/xanderelsmith/Dijkstra-runner/)
 
 ---
 
