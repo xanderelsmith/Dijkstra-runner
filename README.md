@@ -57,7 +57,7 @@ Follow these steps to run the pathfinder locally.
 
 1.  **Clone the repo**
     ```sh
-    git clone [https://github.com/YOUR_USERNAME/dijkstra_runner.git](https://github.com/YOUR_USERNAME/dijkstra_runner.git)
+    git clone [https://github.com/YOUR_USERNAME/dijkstra_runner.git]
     ```
 2.  **Install packages**
     ```sh
